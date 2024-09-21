@@ -1,0 +1,14 @@
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\bin\Debug\net8.0\Teset_Lab2_1.exe
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\bin\Debug\net8.0\Teset_Lab2_1.deps.json
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\bin\Debug\net8.0\Teset_Lab2_1.runtimeconfig.json
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\bin\Debug\net8.0\Teset_Lab2_1.dll
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\bin\Debug\net8.0\Teset_Lab2_1.pdb
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\obj\Debug\net8.0\Teset_Lab2_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\obj\Debug\net8.0\Teset_Lab2_1.AssemblyInfoInputs.cache
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\obj\Debug\net8.0\Teset_Lab2_1.AssemblyInfo.cs
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\obj\Debug\net8.0\Teset_Lab2_1.csproj.CoreCompileInputs.cache
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\obj\Debug\net8.0\Teset_Lab2_1.dll
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\obj\Debug\net8.0\refint\Teset_Lab2_1.dll
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\obj\Debug\net8.0\Teset_Lab2_1.pdb
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\obj\Debug\net8.0\Teset_Lab2_1.genruntimeconfig.cache
+D:\CanDelete\Programing\C# KPI\Algoritm\Teset_Lab2_1\obj\Debug\net8.0\ref\Teset_Lab2_1.dll
