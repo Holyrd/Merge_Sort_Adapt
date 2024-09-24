@@ -158,12 +158,14 @@ class Program
 			{
 				if (line1 == null)//Копіювання залишків якщо одна з серій закінчилась та читаємо наступну пару
 				{
+					writer.WriteLine(line2);
 					WriteRemainingSequence(reader2, writer);
 					line1 = ReadNextNumberOrSeparator(reader1, ref endOfFile1);
 					line2 = ReadNextNumberOrSeparator(reader2, ref endOfFile2);
 				}
 				else if (line2 == null)
 				{
+					writer.WriteLine(line1);
 					WriteRemainingSequence(reader1, writer);
 					line1 = ReadNextNumberOrSeparator(reader1, ref endOfFile1);
 					line2 = ReadNextNumberOrSeparator(reader2, ref endOfFile2); 
